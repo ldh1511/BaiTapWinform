@@ -1,0 +1,10 @@
+E:\LTNC\Winform-01\WF01-2\bin\Debug\WF01-2.exe.config
+E:\LTNC\Winform-01\WF01-2\bin\Debug\WF01-2.exe
+E:\LTNC\Winform-01\WF01-2\bin\Debug\WF01-2.pdb
+E:\LTNC\Winform-01\WF01-2\obj\Debug\WF01_2.Form1.resources
+E:\LTNC\Winform-01\WF01-2\obj\Debug\WF01_2.Properties.Resources.resources
+E:\LTNC\Winform-01\WF01-2\obj\Debug\WF01-2.csproj.GenerateResource.cache
+E:\LTNC\Winform-01\WF01-2\obj\Debug\WF01-2.csproj.CoreCompileInputs.cache
+E:\LTNC\Winform-01\WF01-2\obj\Debug\WF01-2.exe
+E:\LTNC\Winform-01\WF01-2\obj\Debug\WF01-2.pdb
+E:\LTNC\Winform-01\WF01-2\obj\Debug\WF01-2.csprojAssemblyReference.cache
